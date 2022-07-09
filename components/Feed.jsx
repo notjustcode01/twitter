@@ -6,7 +6,7 @@ export default function Feed() {
   const posts =[
     {
       id: "1",
-      name: "Habib Mohammed",
+      name: "Habib Moh'd",
       username: "notjustcode01",
       userImg: "https://lh3.googleusercontent.com/a-/AFdZucqvsyLh0w1-foe12qK0_04ZhQ2VfzdqMh-MTnTs=s504-p-rw-no",
       img: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
@@ -15,7 +15,7 @@ export default function Feed() {
     },
     {
       id: "2",
-      name: "Habib Mohammed",
+      name: "Habib Moh'd",
       username: "notjustcode01",
       userImg: "https://lh3.googleusercontent.com/a-/AFdZucqvsyLh0w1-foe12qK0_04ZhQ2VfzdqMh-MTnTs=s504-p-rw-no",
       img: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
